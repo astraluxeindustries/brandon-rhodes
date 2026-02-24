@@ -9,7 +9,7 @@ export const Footer: React.FC = () => {
         <div className="max-w-sm">
           <h3 className="font-serif text-xl font-bold text-secondary mb-4">{BUSINESS_INFO.company}</h3>
           <p className="text-gray-500 text-sm leading-relaxed mb-6">
-            Providing comprehensive mortgage services with a commitment to integrity, education, and community relationships in Southern Utah.
+            Providing comprehensive mortgage services with a commitment to integrity, education, and community relationships in Southern Idaho.
           </p>
           <p className="text-xs text-gray-400">
             {BUSINESS_INFO.name} NMLS: {BUSINESS_INFO.nmls}<br/>
