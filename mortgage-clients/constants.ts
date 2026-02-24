@@ -3,14 +3,14 @@ import { Review, NavLink, ServiceItem } from './types';
 export const BUSINESS_INFO = {
   name: "Brandon Rhodehouse",
   title: "Mortgage Consultant",
-  nmls: "2531460",
+  nmls: "1405553",
   company: "Patriot Home Mortgage",
   companyNmls: "715386",
   address: "619 S Bluff St Tower 2 Suite 1B, St. George, UT 84770",
-  phone: "(425) 876-3025",
+  phone: "(208) 521-8075",
   email: "brandon@patriothomemortgage.com",
   hours: "Open 24 hours",
-  bio: `Brandon Rhodehouse brings more than two decades of financial expertise to his role as Mortgage Advisor at Patriot Mortgage, where he joined the team in October 2023. With 22 years in the financial industry and certifications including CMA and CCA, Brandon has built a career rooted in trust, leadership, and results.
+  bio: `Brandon brings more than two decades of financial expertise to his role as Mortgage Advisor at Patriot Mortgage, where he joined the team in October 2023. With 22 years in the financial industry and certifications including CMA and CCA, Brandon has built a career rooted in trust, leadership, and results.
 
 Throughout his career, Brandon has served in key leadership roles such as Vice President of Retail Banking at Washington Federal and Senior Trust Officer at the Bank of Idaho. These experiences have equipped him with deep knowledge of banking, lending, and financial strategy, allowing him to assist thousands of clients across Southeast Idaho with confidence and clarity.
 
