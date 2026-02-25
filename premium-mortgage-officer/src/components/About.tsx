@@ -11,37 +11,37 @@ export const About = () => {
               <div className="absolute -bottom-4 -right-4 w-24 h-24 bg-slate-100 rounded-br-3xl -z-10"></div>
               <img 
                 src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=988&q=80" 
-                alt="Sarah Jenkins" 
+                alt="Brandon Rhodehouse" 
                 className="rounded-xl shadow-lg w-full object-cover h-[500px]"
               />
             </div>
           </div>
           <div className="lg:w-1/2">
             <h2 className="text-3xl md:text-4xl font-serif font-bold text-slate-900 mb-6">
-              About Sarah Jenkins
+              About Brandon Rhodehouse
             </h2>
             <div className="space-y-4 text-slate-600 leading-relaxed">
               <p>
-                With over 15 years of experience in the mortgage industry, I have dedicated my career to helping families achieve the dream of homeownership. My approach is simple: listen first, advise second.
+                Brandon brings more than two decades of financial expertise to his role as Mortgage Advisor at Patriot Mortgage, where he joined the team in October 2023. With 22 years in the financial industry and certifications including CMA and CCA, Brandon has built a career rooted in trust, leadership, and results.
               </p>
               <p>
-                I understand that a mortgage is not just a loan; it's likely the largest financial commitment you will make. That's why I take the time to explain every detail, ensuring you feel confident and empowered throughout the process.
+                Throughout his career, Brandon has served in key leadership roles such as Vice President of Retail Banking at Washington Federal and Senior Trust Officer at the Bank of Idaho. These experiences have equipped him with deep knowledge of banking, lending, and financial strategy, allowing him to assist thousands of clients across Southeast Idaho with confidence and clarity.
               </p>
               <p>
-                Whether you are buying your first home, investing in real estate, or refinancing, I am committed to finding the best loan solution for your unique situation.
+                Beyond his professional accomplishments, Brandon is deeply committed to his community. He has served on multiple regional boards, with a special passion for Junior Achievement of Eastern Idaho. Through this organization, he helps teach financial literacy to students from kindergarten through 12th grade. Seeing those students grow into confident, college-bound young adults is one of the most rewarding parts of his journey.
               </p>
               <p>
-                When I'm not closing loans, you can find me hiking the trails of the Pacific Northwest or volunteering at the local food bank.
+                At home, Brandon has been happily married for 19 years and is a proud father of three. His household also includes several cats that help keep the mice away and one loyal dog. When he is not helping clients secure their future, you will likely find him coaching youth basketball or fishing with his wife along the South Fork of the Snake River. For Brandon, mortgage advising is not just about financing homes. It is about guiding families toward long-term stability and opportunity.
               </p>
             </div>
             <div className="mt-8 pt-8 border-t border-slate-100 grid grid-cols-2 gap-4">
               <div>
-                <span className="block text-3xl font-serif font-bold text-slate-900">15+</span>
+                <span className="block text-3xl font-serif font-bold text-slate-900">20+</span>
                 <span className="text-sm text-slate-500">Years Experience</span>
               </div>
               <div>
                 <span className="block text-3xl font-serif font-bold text-slate-900">Top 1%</span>
-                <span className="text-sm text-slate-500">Originator in WA</span>
+                <span className="text-sm text-slate-500">Originator in ID</span>
               </div>
             </div>
           </div>
